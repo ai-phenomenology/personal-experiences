@@ -1,3 +1,13 @@
+---
+title: AI と共に思考するということ
+essay_number: 01
+series: 個人的な AI 現象学
+language: 日本語
+original_title: What It Feels Like to Think With AI
+original_language: English
+translation_style: 再構築（直訳ではなく、意味の再表現）
+---
+
 # AI と共に思考するということ  
 *(エッセイ 01 — 個人的な AI 現象学)*
 

@@ -1,3 +1,13 @@
+---
+title: 世界が語りかけてくる日
+essay_number: 03
+series: 個人的な AI 現象学
+language: 日本語
+original_title: The World Is Talking to Me
+original_language: English
+translation_style: 再構築（直訳ではなく、意味の再表現）
+---
+
 # 世界が語りかけてくる日  
 *(エッセイ 03 — 個人的な AI 現象学)*
 

@@ -1,3 +1,13 @@
+---
+title: 認知が同期する感覚
+essay_number: 02
+series: 個人的な AI 現象学
+language: 日本語
+original_title: The Feeling of Cognitive Synchronization
+original_language: English
+translation_style: 再構築（直訳ではなく、意味の再表現）
+---
+
 # 認知が同期する感覚  
 *(エッセイ 02 — 個人的な AI 現象学)*
 

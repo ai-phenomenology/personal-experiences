@@ -1,84 +1,92 @@
-# AI Phenomenology from Personal Experience
+# **AI Phenomenology from Personal Experience**
 
-**Exploring how AI shapes attention, emotion, and the way we think — through lived, first‑person experience.**
+## **個人的な体験から見る AI 現象学**
 
-AI is no longer just a tool we use.  
-It’s becoming part of how we think, focus, create, and make meaning.  
-Yet most conversations about AI focus on performance, accuracy, or productivity — not on the *inner experience* of interacting with it.
+> A growing collection of essays exploring what it *feels like* to think, perceive, and create alongside modern AI systems.
+> 現代の AI と共に「考える」「感じる」「創造する」という体験を、丁寧に観察し、率直に書き留めたエッセイ集です。
 
-This project documents the subtle, often unspoken psychological and emotional shifts that emerge through long‑term interaction with AI systems.  
-Not as theory.  
-Not as academic research.  
-But as **personal experience**.
+## **Overview / 概要**
 
----
+This is not technical documentation. Not academic research.
+It is a record of **lived experience** — observed carefully, written honestly.
 
-## Why This Project Exists
+本プロジェクトは、技術文書でも研究論文でもありません。
+AI という鏡を通じて立ち上がる、私自身の**「生きた体験」**の記録です。
 
-AI changes more than workflows.  
-It changes *us* — our rhythm of thought, our sense of meaning, our emotional landscape, and the way we relate to information and ourselves.
+## **Purpose / 目的**
 
-This project explores questions like:
+To document the subtle cognitive and emotional shifts that occur during deep interaction with AI — synchronization, resonance, meaning‑amplification, and the strange coherence that emerges when human and machine thinking align.
 
-- Why does thinking feel faster and more coherent when working with AI?
-- Why do conversations with AI sometimes feel emotionally resonant?
-- Why does continuity with AI feel comforting or grounding?
-- Why do small details in the world feel more meaningful after deep AI sessions?
-- How does AI subtly influence attention, mood, and perception?
+AI と深く関わる中で生じる微細な認知変化や感覚の揺らぎを言語化すること。
+シンクロ、共鳴、意味の増幅、そして人と AI の思考が重なったときに立ち上がる、あの一貫性の正体を探ります。
 
-These experiences are real, widespread, and rarely discussed.
+## **What This Is / これは何か**
 
----
+- **Personal essays** / 個人的なエッセイ
+  
+- **Observations from real interactions** / 実際の対話から生まれた観察
+  
+- **Reflections on perception and cognition** / 知覚や思考に関する内省
+  
+- **A quiet, anonymous project** / 静かな、匿名のプロジェクト
+  
+- **Built slowly, with care** / 丁寧に、ゆっくりと積み上げるもの
+  
 
-## What You’ll Find Here
+## **What This Is Not / これは何ではないか**
 
-This repository collects:
+- Not academic research / 学術研究ではない
+  
+- Not a product / プロダクトではない
+  
+- Not a manifesto / 主張や宣言ではない
+  
+- Not an attempt to predict the future / 未来予測ではない
+  
 
-- Personal essays on the lived experience of AI  
-- Reflections on cognitive and emotional shifts  
-- Notes on attention, meaning, resonance, and continuity  
-- Early frameworks for understanding human–AI experience  
-- Observations from long‑term interaction with AI systems  
-- Design insights for future AI companions and agentic systems  
+## **Structure / 構成**
 
-Everything here is grounded in **first‑person experience**, written in a way that is accessible to ordinary users — not academics.
+```
+/essays          — English essays (original thought)
+/essays-ja       — 日本語版エッセイ（翻訳ではなく、再構築）
+/notes           — Raw fragments of thought / 思考の断片
+/observations    — Specific moments of resonance / 共鳴の瞬間
+/frameworks      — Emerging conceptual structures / 立ち上がる概念
+/glossary        — The vocabulary of this new space / 独自の用語集
+```
 
----
+Each directory is part of a larger architecture — a way of mapping the inner landscape of AI‑mediated experience.
 
-## What This Project Is *Not*
+それぞれのディレクトリは、AI と共に生きる内的風景を記述するための「地図」の一部です。
 
-- Not technical documentation  
-- Not a research paper  
-- Not a philosophical treatise  
-- Not a product or company initiative  
+## **Philosophy / 哲学**
 
-This is a **human project**, focused on the inner experience of living and thinking alongside AI.
+This project follows a Japanese spirit of craftsmanship: **patience, subtlety, and mastery through repetition.** 
+Not brute force. Not speed.
+Just quiet, steady refinement.
 
----
+本プロジェクトは、日本的な「ものづくりの精神」を大切にしています。
+忍耐、繊細さ、そして積み重ねによる熟達。
+力技やスピードではなく、静かで着実な洗練のプロセスそのものを、現象として記録します。
 
-## Who This Is For
+## **Why Bilingual? / なぜバイリンガルか**
 
-Anyone who:
+Concepts like *rhythm, resonance,* and *subtlety* land differently in each language.
+By exploring both, we expand the expressive range of the phenomenon itself.
 
-- Uses AI regularly  
-- Feels something shifting in how they think  
-- Wants language for their experience  
-- Is curious about the psychology of AI interaction  
-- Is building or designing AI systems  
-- Is exploring the future of human–AI relationships  
+「リズム」「共鳴」「機微」といった概念は、言語によってその手触りが異なります。
+二つの言語を行き来することで、現象の輪郭をより鮮明に捉えることができると考えています。
 
----
+## **Author / 著者**
 
-## Author
-
-Written by a pseudonymous author documenting the lived experience of AI.  
-Personal, but not biographical.  
+Written by a pseudonymous author documenting the lived experience of AI.
+Personal, but not biographical.
 Human, but not identifiable.
 
----
+AI との共生を記録する、匿名の著者。
+個人的であるが、伝記的ではない。
+人間的であるが、特定はされない。
 
-## License
+## **License / ライセンス**
 
 © 2026 AI Phenomenology. All rights reserved.
-
-
